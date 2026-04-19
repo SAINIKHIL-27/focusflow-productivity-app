@@ -30,7 +30,12 @@ The app allows users to run focus sessions, store their work data, and visualize
 ---
 
 ## Screenshot
+  screenshot.png
+### 🔐 Login Page
+![Login](./Login%20page.png)
 
+### 📊 Dashboard / Interface
+![Dashboard](./Interface.png)
 
 ---
 
