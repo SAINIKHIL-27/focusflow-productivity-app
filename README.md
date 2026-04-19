@@ -68,6 +68,6 @@ While building this project, I got hands-on experience with:
 
 ---
 
-## BY Sai Nikhil :)
+## Author
 
-Your Name
+D.Sai Nikhil :)
