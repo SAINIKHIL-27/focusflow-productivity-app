@@ -30,7 +30,7 @@ The app allows users to run focus sessions, store their work data, and visualize
 ---
 
 ## Screenshot
-  screenshot.png
+  ![Screenshot](./Screenshot.png)
 ### 🔐 Login Page
 ![Login](./Login%20page.png)
 
